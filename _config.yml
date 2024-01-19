@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Danyang Wu"
-  avatar           : "wdy_rh.jpg"
-  bio              : "Northwest A&F University"
-  location         : "Yangling, China"
+  avatar           : "images/wdy_rh.png"
+  bio              : "Northwestern Polytechnical University"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4aWSU28AAAAJ"
