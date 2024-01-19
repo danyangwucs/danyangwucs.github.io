@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a professor at School of Informatin Engineering, Northwest A&F University. Before that, I was previously an assistant professor in Xi'an Jiaotong University. I received the Ph.D. in Computer Science from Northwestern Polytechnical University in 2022, suerpvised by Feiping Nie. I received B.E. in Electronic Engineering from Northwestern Polytechnical University. 
-
-Currently, I'm leading the MAGIC Lab and 
+I am 
 
 
 
