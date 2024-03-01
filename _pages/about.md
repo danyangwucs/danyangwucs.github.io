@@ -33,10 +33,10 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/300x200.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Joint Structured Bipartite Graph and Row-Sparse Projection for Large-Scale Feature Selection)
+Joint Structured Bipartite Graph and Row-Sparse Projection for Large-Scale Feature Selection
 
 Xia Dong; Feiping Nie; **Danyang Wu**; Rong Wang; Xuelong Li
 
