@@ -32,7 +32,7 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to all authors!
 
 # 🎖 Research Interests
-- Machine Learning $&$ Signal Processing on Multi-modal Graphs
+- Machine Learning & Signal Processing on Multi-modal Graphs
 - AI for Bioinformatics: Single-cell analysis across Modalities, RNA 2D/3D Structure Prediction
 - AI for Agriculture: Remote Sensing Images Analysis in Agriculture
 - AI for Physics: Vortex Structures Recognition
