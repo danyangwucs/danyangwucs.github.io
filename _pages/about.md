@@ -166,6 +166,7 @@ Multi-view Graph Clustering via Efficient Global-Local Spectral Embedding Fusion
 Penglei Wang$^1$, Danyang Wu$^1$, Rong Wang, Feiping Nie
 
 ACM MM, 2023
+
 [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3581783.3612190) [\[Code\]](https://danyangwucs.github.io/)
 
 </div>
