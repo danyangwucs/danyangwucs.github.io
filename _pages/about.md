@@ -21,7 +21,7 @@ I am currently a full professor in College of Information Engineering at Northwe
 
 Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and  focus on graph machine learning, graph signal processing and multi-modal graph learning for science. The intersection between different disciplines often brings unexpected surprises, which is the biggest driving force of my research.
 
-I'm always looking for self-motivated Ph.D and Master students, and visiting students. If you're interested, please feel free to contact me.
+I'm always looking for self-motivated Ph.D and Master students. If you're interested, please feel free to contact me.
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Xia Dong!
