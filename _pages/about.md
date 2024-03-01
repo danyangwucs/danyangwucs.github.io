@@ -21,7 +21,7 @@ I am currently a full professor in College of Information Engineering at Northwe
 
 Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and  focus on graph machine learning, graph signal processing and multi-modal graph learning for science. The intersection between different disciplines often brings unexpected surprises, which is the biggest driving force of my research.
 
-I'm always looking for self-motivated Ph.D and Master students, also including visiting students. If you're interested, please feel free to contact me.
+I'm always looking for self-motivated Ph.D and Master students, and visiting students. If you're interested, please feel free to contact me.
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Xia Dong!
@@ -30,19 +30,17 @@ I'm always looking for self-motivated Ph.D and Master students, also including v
 - *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM. Congrats to Penglei!
 - *2023.05*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to all authors!
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to all authors!
--  Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/300x200.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Joint Structured Bipartite Graph and Row-Sparse Projection for Large-Scale Feature Selection)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xia Dong; Feiping Nie; **Danyang Wu**; Rong Wang; Xuelong Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+IEEE Transactions on Neural Networks and Learning Systems
 </div>
 </div>
 
