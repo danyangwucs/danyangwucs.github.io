@@ -23,7 +23,6 @@ Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and 
 
 I'm always looking for self-motivated Ph.D and Master students, and visiting students. If you're interested, please feel free to contact me.
 
-
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Xia Dong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TMLR. Congrats to Jitao! 
@@ -32,20 +31,16 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 - *2023.05*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to all authors!
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to all authors!
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Research Interests
+- Machine Learning $&$ Signal Processing on Multi-modal Graphs
+- AI for Bioinformatics: Single-cell analysis across Modalities, RNA 2D/3D Structure Prediction
+- AI for Agriculture: Remote Sensing Images Analysis in Agriculture
+- AI for Physics: Vortex Structures Recognition
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Sevices
+- PC Member: ICLR 2024, ICML 2024, NeurIPS 2023, ACM-MM 2023, AAAI 2023-2024, PRML 2023, etc.
+- Journal Reviewer: TPAMI, TNNLS, TCSVT, Pattern Recognition, Knowledge-based System, Neural Networks, etc.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 # 📝 Publications 
 
 ## Pre-print 
