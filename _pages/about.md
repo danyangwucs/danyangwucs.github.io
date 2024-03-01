@@ -44,21 +44,75 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 # 📝 Publications 
 
 ## Pre-print 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-NP$2$L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks
+NP$^2$L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks
 Xinjie Shen, **Danyang Wu^**, Feiping Nie, Rong Wang, Xuelong Li
+
+[\[Paper\]](https://arxiv.org/abs/2310.01098) 
+</div>
+</div>
+
+
+## Journal
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hyperspherical Prototype Node Clustering
+
+Jitao Lu, **Danyang Wu**, Feiping Nie, Rong Wang, Xuelong Li
 
 Transactions on Machine Learning Research, 2024  
 
-[\[Paper\]](https://arxiv.org/abs/2310.01098) [\[Code\]](https://danyangwucs.github.io/)
+[\[Paper\]](https://openreview.net/forum?id=z3ZlnaOM0d) [\[Code\]](https://github.com/MoetaYuko/HPNC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multi-View and Multi-Order Structured Graph Learning
+
+Rong Wang, Penglei Wang, **Danyang Wu^**, Zhenshen Sun^, Feiping Nie, Xuelong Li
+
+IEEE Transactions on Neural Networks and Learning Systems, 2023
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10154258/) [\[Code\]](https://danyangwucs.github.io/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Bidirectional Probabilistic Subspaces Approximation for Multiview Clustering
+
+**Danyang Wu**, Xia Dong, Jianfu Cao, Rong Wang, Feiping Nie, Xuelong Li
+
+IEEE Transactions on Neural Networks and Learning Systems, 2022
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10154258/) [\[Code\]](https://danyangwucs.github.io/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2022 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Effective Clustering via Structured Graph Learning
+
+**Danyang Wu**, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
+
+IEEE Transactions on Neural Networks and Learning Systems, 2022
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://danyangwucs.github.io/)
 
 </div>
 </div>
 
 
-## Conference 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
