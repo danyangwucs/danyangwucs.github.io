@@ -44,7 +44,18 @@ IEEE Transactions on Neural Networks and Learning Systems
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Joint Structured Bipartite Graph and Row-Sparse Projection for Large-Scale Feature Selection
+
+Xia Dong; Feiping Nie; **Danyang Wu**; Rong Wang; Xuelong Li
+
+IEEE Transactions on Neural Networks and Learning Systems
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
