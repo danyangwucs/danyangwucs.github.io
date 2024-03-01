@@ -33,10 +33,11 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 
 # 📝 Selected Publications 
 
+## 📝 Pre-print 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hyperspherical Prototype Node Clustering](https://openreview.net/forum?id=z3ZlnaOM0d)
+Hyperspherical Prototype Node Clustering
 
 Jitao Lu, Danyang Wu, Feiping Nie, Rong Wang, Xuelong Li
 
