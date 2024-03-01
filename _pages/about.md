@@ -163,7 +163,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 
 Multi-view Graph Clustering via Efficient Global-Local Spectral Embedding Fusion
 
-Penglei Wang$^1$, Danyang Wu$^1$, Rong Wang, Feiping Nie
+Penglei Wang$^1$, **Danyang Wu$^1$**, Rong Wang, Feiping Nie
 
 ACM MM, 2023
 
@@ -177,7 +177,7 @@ ACM MM, 2023
 
 EMGC$^2$F: Efficient Multi-view Graph Clustering with Comprehensive Fusion
 
-Danyang Wu$^1$, Jitao Lu$^1$, Feiping Nie, Rong Wang, Yuan Yuan
+**Danyang Wu$^1$**, Jitao Lu$^1$, Feiping Nie, Rong Wang, Yuan Yuan
 
 IJCAI, 2022
 
