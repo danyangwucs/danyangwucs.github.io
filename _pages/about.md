@@ -40,7 +40,9 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 
 Jitao Lu, Danyang Wu, Feiping Nie, Rong Wang, Xuelong Li
 
-Transactions on Machine Learning Research, 2024  [\[code\]](https://github.com/MoetaYuko/HPNC)
+Transactions on Machine Learning Research, 2024  
+
+[\[Paper\]]([https://github.com/MoetaYuko/HPNC](https://openreview.net/forum?id=z3ZlnaOM0d)) [\[Code\]](https://github.com/MoetaYuko/HPNC)
 
 </div>
 </div>
