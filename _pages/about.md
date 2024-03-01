@@ -41,7 +41,7 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 - PC Member: ICLR 2024, ICML 2024, NeurIPS 2023, ACM-MM 2023, AAAI 2023-2024, PRML 2023, etc.
 - Journal Reviewer: TPAMI, TNNLS, TCSVT, Pattern Recognition, Knowledge-based System, Neural Networks, etc.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 ## Pre-print 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
@@ -93,7 +93,7 @@ Bidirectional Probabilistic Subspaces Approximation for Multiview Clustering
 
 IEEE Transactions on Neural Networks and Learning Systems, 2022
 
-[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10154258/) [\[Code\]](https://danyangwucs.github.io/)
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10154258/) [\[Code\]](https://github.com/danyangzz/TNNLS2022-BPSA)
 
 </div>
 </div>
@@ -105,23 +105,95 @@ Effective Clustering via Structured Graph Learning
 
 **Danyang Wu**, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
 
-IEEE Transactions on Neural Networks and Learning Systems, 2022
+IEEE Transactions on Knowledge and Data Engineering, 2022
 
 [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://danyangwucs.github.io/)
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAI 2021 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+Balanced Graph Cut With Exponential Inter-Cluster Compactness
+
+**Danyang Wu**, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
+
+IEEE Transactions on Artificial Intelligence, 2021
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://github.com/danyangzz/TAI2021-Exp-Cut)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2021 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Parameter-free Consensus Embedding Learning for Multiview Graph-based Clustering
+
+**Danyang Wu**, Feiping Nie, Xia Dong, Rong Wang, Xuelong Li
+
+IEEE Transactions on Neural Networks and Learning Systems, 2021
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://danyangwucs.github.io/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2020 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Truncated Robust Principle Component Analysis with a General Optimization Framework
+
+**Danyang Wu**, Feiping Nie, Xia Dong, Rong Wang, Xuelong Li
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://github.com/danyangzz/TPAMI2020-TRPCA)
+
+</div>
+</div>
+
+
+## Conference
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-view Graph Clustering via Efficient Global-Local Spectral Embedding Fusion
 
 Penglei Wang$^1$, Danyang Wu$^1$, Rong Wang, Feiping Nie
-IEEE Transactions on Neural Networks and Learning Systems
+
+ACM MM, 2023
+[\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3581783.3612190) [\[Code\]](https://danyangwucs.github.io/)
+
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+EMGC$^2$F: Efficient Multi-view Graph Clustering with Comprehensive Fusion
 
+Danyang Wu$^1$, Jitao Lu, Feiping Nie, Rong Wang, Yuan Yuan
+
+IJCAI, 2022
+
+[\[Paper\]](https://www.ijcai.org/proceedings/2022/0495.pdf) [\[Code\]](https://github.com/danyangzz/IJCAI2022-EMGC2F)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GSPL: A Succinct Kernel Model for Group-Sparse Projections Learning of Multiview Data.
+
+**Danyang Wu**, Jin Xu, Xia Dong, Meng Liao, Rong Wang, Feiping Nie, Xuelong Li
+
+IJCAI, 2021
+
+[\[Paper\]](https://www.ijcai.org/proceedings/2022/0495.pdf) [\[Code\]](https://github.com/danyangzz/IJCAI2021-GSPL)
+
+</div>
+</div>
