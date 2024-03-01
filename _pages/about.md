@@ -177,7 +177,7 @@ ACM MM, 2023
 
 EMGC$^2$F: Efficient Multi-view Graph Clustering with Comprehensive Fusion
 
-Danyang Wu$^1$, Jitao Lu, Feiping Nie, Rong Wang, Yuan Yuan
+Danyang Wu$^1$, Jitao Lu$^1$, Feiping Nie, Rong Wang, Yuan Yuan
 
 IJCAI, 2022
 
