@@ -31,26 +31,25 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 - *2023.05*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to all authors!
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to all authors!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Joint Structured Bipartite Graph and Row-Sparse Projection for Large-Scale Feature Selection
+Hyperspherical Prototype Node Clustering
 
-Xia Dong; Feiping Nie; **Danyang Wu**; Rong Wang; Xuelong Li
+Jitao Lu, Danyang Wu, Feiping Nie, Rong Wang, Xuelong Li
 
-IEEE Transactions on Neural Networks and Learning Systems
+Transactions on Machine Learning Research, 2024
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Joint Structured Bipartite Graph and Row-Sparse Projection for Large-Scale Feature Selection
+Multi-view Graph Clustering via Efficient Global-Local Spectral Embedding Fusion
 
-Xia Dong; Feiping Nie; **Danyang Wu**; Rong Wang; Xuelong Li
-
+Penglei Wang$^1$, Danyang Wu$^1$, Rong Wang, Feiping Nie
 IEEE Transactions on Neural Networks and Learning Systems
 </div>
 </div>
