@@ -37,7 +37,7 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 - AI for Agriculture: Remote Sensing Images Analysis in Agriculture
 - AI for Physics: Vortex Structures Recognition
 
-# 📖 Sevices
+# 📖 Services
 - PC Member: ICLR 2024, ICML 2024, NeurIPS 2023, ACM-MM 2023, AAAI 2023-2024, PRML 2023, etc.
 - Journal Reviewer: TPAMI, TNNLS, TCSVT, Pattern Recognition, Knowledge-based System, Neural Networks, etc.
 
