@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am 
+I am currently a full professor in College of Information Engineering at Northwest A&F University, start from spring 2024.  Before that, I was a tenure-track assistant professor in School of Automation Science and Engineering at Xi'an Jiaotong University in 2022. I received the Ph.D. degree in Computer Science at Northwestern Polytechnical University in 2022, and received the B.E. degree in Electronic Information Engineering at Northwestern Polytechnical University in 2017.
 
+Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and  focus on graph machine learning, graph signal processing and multi-modal graph learning for science. The intersection between different disciplines often brings unexpected surprises, which is the biggest driving force of my research.
 
-
+I'm always looking for self-motivated Ph.D and Master students, also including visiting students. If you're interested, please feel free to contact me.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
