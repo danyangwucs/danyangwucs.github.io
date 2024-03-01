@@ -23,6 +23,7 @@ Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and 
 
 I'm always looking for self-motivated Ph.D and Master students, and visiting students. If you're interested, please feel free to contact me.
 
+
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Xia Dong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TMLR. Congrats to Jitao! 
@@ -30,35 +31,6 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 - *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM. Congrats to Penglei!
 - *2023.05*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to all authors!
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to all authors!
-
-# 📝 Selected Publications 
-
-## 📝 Pre-print 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Hyperspherical Prototype Node Clustering
-
-Jitao Lu, Danyang Wu, Feiping Nie, Rong Wang, Xuelong Li
-
-Transactions on Machine Learning Research, 2024  
-
-[\[Paper\]]([https://github.com/MoetaYuko/HPNC](https://openreview.net/forum?id=z3ZlnaOM0d)) [\[Code\]](https://github.com/MoetaYuko/HPNC)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Multi-view Graph Clustering via Efficient Global-Local Spectral Embedding Fusion
-
-Penglei Wang$^1$, Danyang Wu$^1$, Rong Wang, Feiping Nie
-IEEE Transactions on Neural Networks and Learning Systems
-</div>
-</div>
-
-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -74,3 +46,34 @@ IEEE Transactions on Neural Networks and Learning Systems
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📝 Publications 
+
+## Pre-print 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hyperspherical Prototype Node Clustering
+
+Jitao Lu, Danyang Wu, Feiping Nie, Rong Wang, Xuelong Li
+
+Transactions on Machine Learning Research, 2024  
+
+[\[Paper\]]([https://github.com/MoetaYuko/HPNC](https://openreview.net/forum?id=z3ZlnaOM0d)) [\[Code\]](https://github.com/MoetaYuko/HPNC)
+
+</div>
+</div>
+
+
+## Conference 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multi-view Graph Clustering via Efficient Global-Local Spectral Embedding Fusion
+
+Penglei Wang$^1$, Danyang Wu$^1$, Rong Wang, Feiping Nie
+IEEE Transactions on Neural Networks and Learning Systems
+</div>
+</div>
+
+
+
