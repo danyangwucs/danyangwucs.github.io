@@ -44,7 +44,7 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 # 📝 Selected Publications 
 
 ## Pre-print 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print 2023 </div><img src='images/Pre_N2PL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 NP$^2$L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks
@@ -56,7 +56,7 @@ Xinjie Shen, **Danyang Wu^**, Feiping Nie, Rong Wang, Xuelong Li
 
 
 ## Journal
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024 </div><img src='images/TMLR_HPNC.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hyperspherical Prototype Node Clustering
@@ -70,7 +70,7 @@ Transactions on Machine Learning Research, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/TNNLS_M2SGL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-View and Multi-Order Structured Graph Learning
@@ -84,7 +84,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022 </div><img src='images/TNNLS_BPSA.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Bidirectional Probabilistic Subspaces Approximation for Multiview Clustering
@@ -98,7 +98,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2022 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2022 </div><img src='images/TKDE_SGL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Effective Clustering via Structured Graph Learning
@@ -112,7 +112,7 @@ IEEE Transactions on Knowledge and Data Engineering, 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAI 2021 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAI 2021 </div><img src='images/TAI-Expcut.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Balanced Graph Cut With Exponential Inter-Cluster Compactness
@@ -126,7 +126,7 @@ IEEE Transactions on Artificial Intelligence, 2021
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2021 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2021 </div><img src='images/TNNLS_PFCEL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Parameter-free Consensus Embedding Learning for Multiview Graph-based Clustering
@@ -140,7 +140,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2021
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2020 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2020 </div><img src='images/TPAMI_RW.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Truncated Robust Principle Component Analysis with a General Optimization Framework
@@ -157,7 +157,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 
 ## Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023 </div><img src='images/ACMMM-GLSEF.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-view Graph Clustering via Efficient Global-Local Spectral Embedding Fusion
@@ -170,7 +170,7 @@ ACM MM, 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022 </div><img src='images/IJCAI_EMGC2F.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 EMGC$^2$F: Efficient Multi-view Graph Clustering with Comprehensive Fusion
@@ -184,7 +184,7 @@ IJCAI, 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021 </div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021 </div><img src='images/IJCAI_GSPL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GSPL: A Succinct Kernel Model for Group-Sparse Projections Learning of Multiview Data.
