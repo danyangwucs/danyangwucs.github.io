@@ -48,6 +48,7 @@ I'm always looking for self-motivated Ph.D and Master students, and visiting stu
 <div class='paper-box-text' markdown="1">
 
 NP$^2$L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks
+
 Xinjie Shen, **Danyang Wu^**, Feiping Nie, Rong Wang, Xuelong Li
 
 [\[Paper\]](https://arxiv.org/abs/2310.01098) 
