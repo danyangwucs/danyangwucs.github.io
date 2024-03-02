@@ -76,7 +76,7 @@ Transactions on Machine Learning Research, 2024
 
 Multi-View and Multi-Order Structured Graph Learning
 
-Rong Wang, Penglei Wang, **Danyang Wu^**, Zhenshen Sun^, Feiping Nie, Xuelong Li
+Rong Wang, Penglei Wang, **Danyang Wu^**, Zhensheng Sun^, Feiping Nie, Xuelong Li
 
 IEEE Transactions on Neural Networks and Learning Systems, 2023
 
