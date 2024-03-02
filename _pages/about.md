@@ -146,7 +146,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2021
 
 Truncated Robust Principle Component Analysis with a General Optimization Framework
 
-**Danyang Wu**, Feiping Nie, Xia Dong, Rong Wang, Xuelong Li
+Feiping Nie, **Danyang Wu**, Rong Wang, Xuelong Li
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 
