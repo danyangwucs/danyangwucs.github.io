@@ -159,7 +159,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 
 ## Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023 </div><img src='images/WWW_SMGCN.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024 </div><img src='images/WWW_SMGCN.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Simple Multigraph Convolution Networks
