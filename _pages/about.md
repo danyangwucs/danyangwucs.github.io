@@ -161,6 +161,20 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023 </div><img src='images/ACMMM-GLSEF.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+Simple Multigraph Convolution Networks
+
+**Danyang Wu**, Xinjie Shen, Jitao Lu, Jin Xu, Feiping Nie
+
+WWW, 2024
+
+[\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3581783.3612190) [\[Code\]](https://danyangwucs.github.io/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023 </div><img src='images/ACMMM-GLSEF.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 Multi-view Graph Clustering via Efficient Global-Local Spectral Embedding Fusion
 
 Penglei Wang$^1$, **Danyang Wu**$^1$, Rong Wang, Feiping Nie
