@@ -24,6 +24,7 @@ Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and 
 I'm always looking for self-motivated Ph.D and Master students. If you're interested, please feel free to contact me.
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 One paper has been accepted by WWW. Congrats to all authors!
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Xia Dong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TMLR. Congrats to Jitao! 
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by KBS. Congrats to all authors!
@@ -158,7 +159,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 
 ## Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023 </div><img src='images/ACMMM-GLSEF.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023 </div><img src='images/WWW_SMGCN.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Simple Multigraph Convolution Networks
