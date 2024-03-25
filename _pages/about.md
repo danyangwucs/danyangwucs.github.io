@@ -86,6 +86,21 @@ IEEE Transactions on Neural Networks and Learning Systems, 2023
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2023 </div><img src='images/TKDE_SGL.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Effective Clustering via Structured Graph Learning
+
+**Danyang Wu**, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
+
+IEEE Transactions on Knowledge and Data Engineering, 2023
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://danyangwucs.github.io/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022 </div><img src='images/TNNLS_BPSA.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,56 +115,44 @@ IEEE Transactions on Neural Networks and Learning Systems, 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2022 </div><img src='images/TKDE_SGL.png' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-Effective Clustering via Structured Graph Learning
-
-**Danyang Wu**, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
-
-IEEE Transactions on Knowledge and Data Engineering, 2022
-
-[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://danyangwucs.github.io/)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAI 2021 </div><img src='images/TAI-Expcut.png' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Balanced Graph Cut With Exponential Inter-Cluster Compactness
-
-**Danyang Wu**, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
-
-IEEE Transactions on Artificial Intelligence, 2021
-
-[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://github.com/danyangzz/TAI2021-Exp-Cut)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2021 </div><img src='images/TNNLS_PFCEL.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022 </div><img src='images/TNNLS_PFCEL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Parameter-free Consensus Embedding Learning for Multiview Graph-based Clustering
 
 **Danyang Wu**, Feiping Nie, Xia Dong, Rong Wang, Xuelong Li
 
-IEEE Transactions on Neural Networks and Learning Systems, 2021
+IEEE Transactions on Neural Networks and Learning Systems, 2022
 
 [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://danyangwucs.github.io/)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2020 </div><img src='images/TPAMI_RW.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAI 2022 </div><img src='images/TAI-Expcut.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Balanced Graph Cut With Exponential Inter-Cluster Compactness
+
+**Danyang Wu**, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
+
+IEEE Transactions on Artificial Intelligence, 2022
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://github.com/danyangzz/TAI2021-Exp-Cut)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022 </div><img src='images/TPAMI_RW.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Truncated Robust Principle Component Analysis with a General Optimization Framework
 
 Feiping Nie, **Danyang Wu**, Rong Wang, Xuelong Li
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
 
 [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9950731) [\[Code\]](https://github.com/danyangzz/TPAMI2020-TRPCA)
 
