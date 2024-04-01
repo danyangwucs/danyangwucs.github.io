@@ -63,6 +63,7 @@ Xinjie Shen, **Danyang Wu^**, Feiping Nie, Rong Wang, Xuelong Li
 <div class='paper-box-text' markdown="1">
 
 Adaptive Local Modularity Learning for Efficient Multilayer Graph Clustering
+
 **Danyang Wu**, Penglei Wang, Junjie Liang, Jitao Lu, Jin Xu, Rong Wang, Feiping Nie
 
 IEEE Transactions on Signal Processing, 2024  
