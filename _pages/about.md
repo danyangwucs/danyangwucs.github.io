@@ -24,6 +24,7 @@ Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and 
 I'm always looking for self-motivated Ph.D and Master students. If you're interested, please feel free to contact me.
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TSP. Congrats to all authors!
 - *2024.03*: &nbsp;🎉🎉 One paper has been accepted by WWW. Congrats to all authors!
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Xia Dong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TMLR. Congrats to Jitao! 
@@ -35,11 +36,11 @@ I'm always looking for self-motivated Ph.D and Master students. If you're intere
 # 🎖 Research Interests
 - Machine Learning & Signal Processing on Multi-modal Graphs
 - AI for Bioinformatics: Single-cell analysis across Modalities, RNA 2D/3D Structure Prediction
-- AI for Agriculture: Remote Sensing Images Analysis in Agriculture
+- AI for Remote Sensing: Hyper/Multi-spectral Image Processing
 - AI for Physics: Vortex Structures Recognition
 
 # 📖 Services
-- PC Member: ICLR 2024, ICML 2024, NeurIPS 2023, ACM-MM 2023, AAAI 2023-2024, PRML 2023, etc.
+- PC Member: ICLR 2024, ICML 2024, NeurIPS 2023, ACM-MM 2023-2024, AAAI 2023-2024, PRML 2023, etc.
 - Journal Reviewer: TPAMI, TNNLS, TCSVT, Pattern Recognition, Knowledge-based System, Neural Networks, etc.
 
 # 📝 Selected Publications 
@@ -58,6 +59,19 @@ Xinjie Shen, **Danyang Wu^**, Feiping Nie, Rong Wang, Xuelong Li
 
 
 ## Journal
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSP 2024 </div><img src='images/TSP_ALML.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Adaptive Local Modularity Learning for Efficient Multilayer Graph Clustering
+**Danyang Wu**, Penglei Wang, Junjie Liang, Jitao Lu, Jin Xu, Rong Wang, Feiping Nie
+
+IEEE Transactions on Signal Processing, 2024  
+
+[\[Paper\]](https://openreview.net/forum?id=z3ZlnaOM0d) [\[Code\]](https://github.com/MoetaYuko/HPNC)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024 </div><img src='images/TMLR_HPNC.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
