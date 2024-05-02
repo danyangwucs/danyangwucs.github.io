@@ -24,8 +24,10 @@ Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and 
 I'm always looking for self-motivated Ph.D and Master students. If you're interested, please feel free to contact me.
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TSP. Congrats to all authors!
-- *2024.03*: &nbsp;🎉🎉 One paper has been accepted by WWW. Congrats to all authors!
+- *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to Zhenkun!
+- *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Yidan!
+- *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TSP. Congrats to Penglei!
+- *2024.03*: &nbsp;🎉🎉 One paper has been accepted by WWW. Congrats to Xinjie!
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Xia Dong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TMLR. Congrats to Jitao! 
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by KBS. Congrats to all authors!
@@ -59,6 +61,34 @@ Xinjie Shen, **Danyang Wu^**, Feiping Nie, Rong Wang, Xuelong Li
 
 
 ## Journal
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024 </div><img src='images/TPAMI_EBMGC.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+EBMGC-GNF: Efficient Balanced Multi-view Graph Clustering via Good Neighbor Fusion
+
+**Danyang Wu**$^1$, Zhenkun Yang$^1$, Jitao Lu, Jin Xu, Xiangmin Xu, Feiping Nie
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024
+
+[\[Paper\]](https://openreview.net/forum?id=z3ZlnaOM0d) [\[Code\]](https://github.com/MoetaYuko/HPNC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024 </div><img src='images/TNNLS_CAGM.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Cross-view Approximation on Grassmann Manifold for Multi-view Clustering
+
+Yidan Ma, Xinjie Shen, **Danyang Wu^**, Jianfu Cao, Feiping Nie
+
+IEEE Transactions on Neural Networks and Learning Systems, 2024
+
+[\[Paper\]](https://openreview.net/forum?id=z3ZlnaOM0d) [\[Code\]](https://github.com/MoetaYuko/HPNC)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSP 2024 </div><img src='images/TSP_ALML.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
