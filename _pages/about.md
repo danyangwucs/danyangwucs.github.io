@@ -24,7 +24,7 @@ Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and 
 I'm always looking for self-motivated Ph.D and Master students. If you're interested, please feel free to contact me.
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to Zhenkun!
+- *2024.05*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to Zhenkun!
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Yidan!
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TSP. Congrats to Penglei!
 - *2024.03*: &nbsp;🎉🎉 One paper has been accepted by WWW. Congrats to Xinjie!
