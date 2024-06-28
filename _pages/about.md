@@ -262,3 +262,14 @@ IJCAI, 2021
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TuanTuan </div><img src='images/TT3' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+This is TuanTuan.
+She is a member who has contributed greatly to my research. But due to some restrictions, she cannot appear in my author list.
+I would like to express my gratitude to her here.
+
+
+</div>
+</div>
