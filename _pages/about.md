@@ -286,8 +286,6 @@ Sometimes she feels like she's an serious alien.
 </div>
 </div>
 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TuanTuan </div><img src='images/TT2.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
