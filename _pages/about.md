@@ -270,7 +270,7 @@ IJCAI, 2021
 
 She is TuanTuan.
 
-She is a member who has `contributed' greatly to my research. But due to some restrictions, she cannot appear in my author list.
+She is a member who has 'contributed' greatly to my research. But due to some restrictions, she cannot appear in my author list.
 
 I would like to express my gratitude to her here.
 
