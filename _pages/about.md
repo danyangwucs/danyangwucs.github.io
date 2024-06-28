@@ -281,7 +281,7 @@ I would like to express my gratitude to her here.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TuanTuan </div><img src='images/TT1.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Sometimes she feels like she's an alien.
+Sometimes she feels like she's an serious alien.
 
 </div>
 </div>
@@ -292,7 +292,7 @@ Sometimes she feels like she's an alien.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TuanTuan </div><img src='images/TT2.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Sometimes she feels like she's an alien (lying alien).
+Sometimes an laid-back alien.
 
 </div>
 </div>
