@@ -24,6 +24,9 @@ Moreover, I am the co-organizer of [AI4BREAD](http://www.ai4bread.com/)  lab tha
 I'm always looking for self-motivated Ph.D, Master students and undergraduate intern. If you're interested, please feel free to contact me. Let's do interesting, useful and warm research together!
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Zihua!
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by IEEE/CAA JAS. Congrats to all authors!
+- *2024.05*: &nbsp;🎉🎉 One paper has been accepted by TKDE. Congrats to all authors!
 - *2024.05*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to Zhenkun!
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Yidan!
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TSP. Congrats to Penglei!
@@ -31,9 +34,6 @@ I'm always looking for self-motivated Ph.D, Master students and undergraduate in
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Xia Dong!
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TMLR. Congrats to Jitao! 
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by KBS. Congrats to all authors!
-- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM. Congrats to Penglei!
-- *2023.05*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to all authors!
-- *2023.02*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to all authors!
 
 # 🎖 Research Interests
 - Machine Learning & Signal Processing on Multi-modal Graphs
@@ -42,8 +42,8 @@ I'm always looking for self-motivated Ph.D, Master students and undergraduate in
 - AI for Physics: Vortex Structures Recognition
 
 # 📖 Services
-- PC Member: ICLR 2024, ICML 2024, NeurIPS 2023, ACM-MM 2023-2024, AAAI 2023-2024, PRML 2023, etc.
-- Journal Reviewer: TPAMI, TNNLS, TCSVT, Pattern Recognition, Knowledge-based System, Neural Networks, etc.
+- PC Member: ICLR 2024-2025, ICML 2024, NeurIPS 2023-2024, KDD 2025, ACM-MM 2023-2024, AAAI 2023-2024, etc.
+- Journal Reviewer: TPAMI, TNNLS, TCSVT, etc.
 
 # 📝 Selected Publications 
 
