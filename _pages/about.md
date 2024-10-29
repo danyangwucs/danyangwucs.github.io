@@ -26,6 +26,7 @@ I'm always looking for self-motivated Ph.D, Master students and undergraduate in
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Zihua!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by IEEE/CAA JAS. Congrats to all authors!
+- *2024.07*: &nbsp;🎉🎉 Congrats to Xinjie (Lab Intern) for winning the Microsoft Star of Tomorrow award!
 - *2024.05*: &nbsp;🎉🎉 One paper has been accepted by TKDE. Congrats to all authors!
 - *2024.05*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to Zhenkun!
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Yidan!
