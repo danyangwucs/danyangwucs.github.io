@@ -21,7 +21,7 @@ I am currently a full professor in College of Information Engineering at Northwe
 
 Moreover, I am the co-organizer of [AI4BREAD](http://www.ai4bread.com/)  lab that focuses on the interdisciplinary research of artificial intelligence. The intersection between different disciplines often brings unexpected surprises, which is the biggest driving force of my research. 
 
-I'm always looking for self-motivated Ph.D, Master students and undergraduate intern. If you're interested, please feel free to contact me. Let's do interesting, useful and warm research together!
+I'm always looking for self-motivated Ph.D, Master students and undergraduate intern. If you're interested, please feel free to contact me by email and follow this [tips]([http://www.ai4bread.com/](https://github.com/danyangwucs/Homepage_Attachment/blob/main/Application_Requirements.md)). Let's do interesting, useful and warm research together!
 
 # 🔥 News 
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Zihua!
