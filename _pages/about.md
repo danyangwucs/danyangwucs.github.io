@@ -36,11 +36,11 @@ I'm always looking for self-motivated Ph.D, Master students and undergraduate in
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TMLR. Congrats to Jitao! 
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by KBS. Congrats to all authors!
 
-# 🎖 Research Interests
-- Machine Learning & Signal Processing on Multi-modal Graphs
-- AI for Bioinformatics: Single-cell analysis across Modalities, RNA 2D/3D Structure Prediction
-- AI for Remote Sensing: Hyper/Multi-spectral Image Processing
-- AI for Physics: Vortex Structures Recognition
+# 🎖 Research Interests （Refer to [AI4BREAD](http://www.ai4bread.com/)）
+- **AI4BREAD**: AI-assisted BREeding in Agricultural Digitalization
+- **AI4BREAD**: AI-assisted Bioinformatics Research Exploration And health Development
+- **AI4BREAD**: AI-assisted BREeding in Agricultural Digitalization
+
 
 # 📖 Services
 - PC Member: ICLR 2024-2025, ICML 2024, NeurIPS 2023-2024, KDD 2025, ACM-MM 2023-2024, AAAI 2023-2024, etc.
