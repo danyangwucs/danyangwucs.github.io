@@ -36,11 +36,12 @@ I'm always looking for self-motivated Ph.D, Master students and undergraduate in
 - *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TMLR. Congrats to Jitao! 
 - *2023.10*: &nbsp;🎉🎉 One paper has been accepted by KBS. Congrats to all authors!
 
-# 🎖 Research Interests （Refer to [AI4BREAD](http://www.ai4bread.com/)）
-- **AI4BREAD**: AI-assisted BREeding in Agricultural Digitalization
-- **AI4BREAD**: AI-assisted Bioinformatics Research Exploration And health Development
-- **AI4BREAD**: AI-assisted BREeding in Agricultural Digitalization
-
+# 🎖 Research Interests 
+Our team's research interests focus on the following areas:
+- Haplotype-resolved genome assembly of polyploid crop species
+- Multi-omics Analysis And Health Development Platform
+- Multi-modal (view) Data Fusion, Learning and Inference
+My interest is in designing AI methods (especially graph-based methods) for these areas.
 
 # 📖 Services
 - PC Member: ICLR 2024-2025, ICML 2024, NeurIPS 2023-2024, KDD 2025, ACM-MM 2023-2024, AAAI 2023-2024, etc.
