@@ -41,7 +41,7 @@ Our team's research interests focus on the following areas:
 
 - Haplotype-resolved genome assembly of polyploid crop species
 - Multi-omics Analysis And Health Development Platform
-- Multi-modal (view) Data Fusion, Learning and Inference
+- Multi-modal Data Fusion, Learning and Inference
   
 My interest is in designing AI methods (especially graph-based methods) for these areas.
 
