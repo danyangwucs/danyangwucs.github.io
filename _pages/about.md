@@ -42,7 +42,7 @@ Our team's research interests focus on the following areas:
 - Multi-omics Analysis And Health Development Platform
 - Multi-modal Data Fusion, Learning and Inference
   
-My interest is in designing AI methods (especially graph-based methods) for these areas.
+My interest is in designing AI models (especially graph-based models) for these areas.
 
 # 📖 Services
 - PC Member: ICLR 2024-2025, ICML 2024, NeurIPS 2023-2024, KDD 2025, ACM-MM 2023-2024, AAAI 2023-2024, etc.
