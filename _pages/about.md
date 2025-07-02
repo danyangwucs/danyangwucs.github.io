@@ -41,7 +41,7 @@ I'm always looking for self-motivated Ph.D, Master students and undergraduate in
 Our team's research interests focus on the following areas:
 
 - Machine Learning: Clustering (Overlap, Partial), Tabular Data Processing (Sparse Selection, LLM-based Pre-train), Multi-modal Learning (Cross-modal Interaction), Masseage-Passing Design (Homophilic、Heterophilic、Latency、Unrolling Algorithm), etc.
-- AI4Science: Cytomics, Structuralomics, etc.
+- AI4$\~$: Cytomics, Structuralomics, etc.
   
 # 📖 Services
 - PC Member: ICLR 2024-2025, ICML 2024, NeurIPS 2023-2025, KDD 2025, ACM-MM 2023-2025, AAAI 2023-2024, etc.
