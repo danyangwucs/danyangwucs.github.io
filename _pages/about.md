@@ -24,6 +24,10 @@ Moreover, I am the co-organizer of [AI4BREAD](http://www.ai4bread.com/)  lab tha
 I'm always looking for self-motivated Ph.D, Master students and undergraduate intern. If you're interested, please feel free to contact me by email and follow this [tips](https://github.com/danyangwucs/Homepage_Attachment/blob/main/Application_Requirements.md). Let's do interesting, useful and warm research together!
 
 # 🔥 News 
+- *2025.07*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Junjie!
+- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Penglei!
+- *2025.04*: &nbsp;🎉🎉 One paper has been accepted by TKDE. Congrats to all authors!
+- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Haonan!
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Haonan!
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Zihua!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by IEEE/CAA JAS. Congrats to all authors!
@@ -46,7 +50,7 @@ Our team's research interests focus on the following areas:
 My interest is in designing AI models (especially graph-based models) for these areas.
 
 # 📖 Services
-- PC Member: ICLR 2024-2025, ICML 2024, NeurIPS 2023-2024, KDD 2025, ACM-MM 2023-2024, AAAI 2023-2024, etc.
+- PC Member: ICLR 2024-2025, ICML 2024, NeurIPS 2023-2025, KDD 2025, ACM-MM 2023-2025, AAAI 2023-2024, etc.
 - Journal Reviewer: TPAMI, TNNLS, TCSVT, etc.
 
 # 📝 Selected Publications 
@@ -272,7 +276,7 @@ IJCAI, 2021
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TuanTuan </div><img src='images/TT3.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-She is TuanTuan.
+She is ZhuangZhuang (壮壮).
 
 She is a member who has 'contributed' greatly to my research. But due to some restrictions, she cannot appear in my author list.
 
