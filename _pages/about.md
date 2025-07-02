@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+ 
 I am currently a full professor in College of Information Engineering at Northwest A&F University, start from spring 2024. Before that, I was a tenure-track assistant professor at Xi'an Jiaotong University. I received the Ph.D. degree in Computer Science at Northwestern Polytechnical University in 2022, and received the B.E. degree in Electronic Information Engineering at Northwestern Polytechnical University in 2017.
 
 Moreover, I am the co-organizer of [AI4BREAD](http://www.ai4bread.com/)  lab that focuses on the interdisciplinary research of artificial intelligence. The intersection between different disciplines often brings unexpected surprises, which is the biggest driving force of my research. 
