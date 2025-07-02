@@ -58,7 +58,7 @@ Separable Spatial Single-cell Transcriptome Representation Learning via Graph Tr
 
 Laiyi Fu, Penglei Wang, Gaoyuan Xu, Jitao Lu, Hequan Sun, Danyang Wu$^*$
 
-[\[Paper\]](https://arxiv.org/abs/2310.01098) 
+[\[Paper\]](https://www.biorxiv.org/content/10.1101/2025.05.01.651634v1.abstract) 
 </div>
 </div>
 
@@ -69,7 +69,7 @@ NP$^2$L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks
 
 Xinjie Shen, Danyang Wu$^*$, Feiping Nie, Rong Wang, Xuelong Li
 
-[\[Paper\]](https://www.biorxiv.org/content/10.1101/2025.05.01.651634v1.abstract) 
+[\[Paper\]](https://arxiv.org/abs/2310.01098) 
 </div>
 </div>
 
