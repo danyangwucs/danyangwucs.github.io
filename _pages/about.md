@@ -23,7 +23,7 @@ Moreover, I am the co-organizer of [AI4BREAD](http://www.ai4bread.com/)  lab tha
 
 I'm always looking for self-motivated Ph.D, Master students and undergraduate intern. If you're interested, please feel free to contact me by email and follow this [tips](https://github.com/danyangwucs/Homepage_Attachment/blob/main/Application_Requirements.md). Let's do interesting, useful and warm research together!
 
-# 🔥 News 
+# 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Junjie!
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Penglei!
 - *2025.04*: &nbsp;🎉🎉 One paper has been accepted by TKDE. Congrats to all authors!
@@ -36,19 +36,13 @@ I'm always looking for self-motivated Ph.D, Master students and undergraduate in
 - *2024.05*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to Zhenkun!
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Yidan!
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TSP. Congrats to Penglei!
-- *2024.03*: &nbsp;🎉🎉 One paper has been accepted by WWW. Congrats to Xinjie!
-- *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Xia Dong!
-- *2024.01*: &nbsp;🎉🎉 One paper has been accepted by TMLR. Congrats to Jitao! 
-
+- 
 # 🎖 Research Interests 
 Our team's research interests focus on the following areas:
 
-- Haplotype-resolved genome assembly of polyploid crop species
-- Multi-omics Analysis And Health Development Platform
-- Multi-modal Data Fusion, Learning and Inference
+- Machine Learning: Clustering (Overlap, Partial), Tabular Data Processing (Sparse Selection, LLM-based Pre-train), Multi-modal Learning (Cross-modal Interaction), Masseage-Passing Design (Homophilic、Heterophilic、Latency、Unrolling Algorithm), etc.
+- AI4Science: Cytomics, Structuralomics, etc.
   
-My interest is in designing AI models (especially graph-based models) for these areas.
-
 # 📖 Services
 - PC Member: ICLR 2024-2025, ICML 2024, NeurIPS 2023-2025, KDD 2025, ACM-MM 2023-2025, AAAI 2023-2024, etc.
 - Journal Reviewer: TPAMI, TNNLS, TCSVT, etc.
