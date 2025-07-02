@@ -55,7 +55,9 @@ Our team's research interests focus on the following areas:
 <div class='paper-box-text' markdown="1">
 
 Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering
-Laiyi Fu, Penglei Wang, Gaoyuan Xu, Jitao Lu, Hequan Sun, **Danyang Wu^**
+
+Laiyi Fu, Penglei Wang, Gaoyuan Xu, Jitao Lu, Hequan Sun, Danyang Wu$^*$
+
 [\[Paper\]](https://arxiv.org/abs/2310.01098) 
 </div>
 </div>
@@ -65,7 +67,7 @@ Laiyi Fu, Penglei Wang, Gaoyuan Xu, Jitao Lu, Hequan Sun, **Danyang Wu^**
 
 NP$^2$L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks
 
-Xinjie Shen, **Danyang Wu^**, Feiping Nie, Rong Wang, Xuelong Li
+Xinjie Shen, Danyang Wu$^*$, Feiping Nie, Rong Wang, Xuelong Li
 
 [\[Paper\]](https://www.biorxiv.org/content/10.1101/2025.05.01.651634v1.abstract) 
 </div>
@@ -78,7 +80,7 @@ Xinjie Shen, **Danyang Wu^**, Feiping Nie, Rong Wang, Xuelong Li
 
 Comprehensive Information Extraction with Separable Representation Learning for Multi-View Clustering
 
-Penglei Wang, **Danyang Wu^**, Jin Xu, Feiping Nie
+Penglei Wang, Danyang Wu$^*$, Jin Xu, Feiping Nie
 
 IEEE Transactions on Circuits and Systems for Video Technology
  
@@ -138,7 +140,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024
 
 Cross-view Approximation on Grassmann Manifold for Multi-view Clustering
 
-Yidan Ma, Xinjie Shen, Danyang Wu$*$, Jianfu Cao, Feiping Nie
+Yidan Ma, Xinjie Shen, Danyang Wu$^*$, Jianfu Cao, Feiping Nie
 
 IEEE Transactions on Neural Networks and Learning Systems, 2024
 
@@ -308,7 +310,7 @@ IJCAI, 2021
 
 # 📖 Gallery
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TuanTuan </div><img src='images/TT3.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZhuangZhuang </div><img src='images/TT3.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 She is ZhuangZhuang (壮壮).
@@ -321,7 +323,7 @@ I would like to express my gratitude to her here.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TuanTuan </div><img src='images/TT1.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZhuangZhuang </div><img src='images/TT1.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Sometimes she feels like she's a serious alien.
@@ -330,10 +332,18 @@ Sometimes she feels like she's a serious alien.
 </div>
  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TuanTuan </div><img src='images/TT2.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZhuangZhuang </div><img src='images/TT2.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Sometimes a laid-back alien.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZhuangZhuang </div><img src='images/TT4.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Serious viewers... 
 
 </div>
 </div>
