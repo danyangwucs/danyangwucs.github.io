@@ -82,7 +82,7 @@ Comprehensive Information Extraction with Separable Representation Learning for 
 
 Penglei Wang, Danyang Wu$^*$, Jin Xu, Feiping Nie
 
-IEEE Transactions on Circuits and Systems for Video Technology
+IEEE Transactions on Circuits and Systems for Video Technology, 2025
  
 [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/11007654) [\[Code\]](https://github.com/MoetaYuko/HPNC)
 
@@ -98,7 +98,7 @@ Triangle Topology Enhancement for Multi-View Graph Clustering
 
 Danyang Wu$^1$, Penglei Wang$^1$, Jitao Lu, Zhanxuan Hu, Hongming Zhang, Feiping Nie
 
-IEEE Transactions on Knowledge and Data Engineering
+IEEE Transactions on Knowledge and Data Engineering, 2025
 
 [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10981967) [\[Code\]](https://github.com/MoetaYuko/HPNC)
 
@@ -112,7 +112,7 @@ Parallel Seeds: From Foundation Models to Foundation Intelligence for Agricultur
 
 Laiyi Fu, Shunkang Ling, Danyang Wu, Mengzhen Kang, Feiyue Wang, Hequan Sun
 
-IEEE/CAA Journal of Automatica Sinica
+IEEE/CAA Journal of Automatica Sinica, 2025
 
 [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10909140) [\[Code\]](https://github.com/MoetaYuko/HPNC)
 
