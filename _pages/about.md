@@ -50,25 +50,81 @@ Our team's research interests focus on the following areas:
 # 📝 Selected Publications 
 
 ## Pre-print 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print 2023 </div><img src='images/Pre_N2PL.png' alt="sym" width="70%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print </div><img src='images/Pre-S3RL.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering
+Laiyi Fu, Penglei Wang, Gaoyuan Xu, Jitao Lu, Hequan Sun, **Danyang Wu^**
+[\[Paper\]](https://arxiv.org/abs/2310.01098) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print </div><img src='images/Pre_N2PL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 NP$^2$L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks
 
 Xinjie Shen, **Danyang Wu^**, Feiping Nie, Rong Wang, Xuelong Li
 
-[\[Paper\]](https://arxiv.org/abs/2310.01098) 
+[\[Paper\]](https://www.biorxiv.org/content/10.1101/2025.05.01.651634v1.abstract) 
 </div>
 </div>
 
 
 ## Journal
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025 </div><img src='images/CIRSEL.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Comprehensive Information Extraction with Separable Representation Learning for Multi-View Clustering
+
+Penglei Wang, **Danyang Wu^**, Jin Xu, Feiping Nie
+
+IEEE Transactions on Circuits and Systems for Video Technology
+ 
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/11007654) [\[Code\]](https://github.com/MoetaYuko/HPNC)
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025 </div><img src='images/MGC-T2E.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Triangle Topology Enhancement for Multi-View Graph Clustering
+
+Danyang Wu$^1$, Penglei Wang$^1$, Jitao Lu, Zhanxuan Hu, Hongming Zhang, Feiping Nie
+
+IEEE Transactions on Knowledge and Data Engineering
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10981967) [\[Code\]](https://github.com/MoetaYuko/HPNC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2025 </div><img src='images/ParaSeeds.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Parallel Seeds: From Foundation Models to Foundation Intelligence for Agricultural Sustainability
+
+Laiyi Fu, Shunkang Ling, Danyang Wu, Mengzhen Kang, Feiyue Wang, Hequan Sun
+
+IEEE/CAA Journal of Automatica Sinica
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10909140) [\[Code\]](https://github.com/MoetaYuko/HPNC)
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024 </div><img src='images/TPAMI_EBMGC.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 EBMGC-GNF: Efficient Balanced Multi-view Graph Clustering via Good Neighbor Fusion
 
-**Danyang Wu**$^1$, Zhenkun Yang$^1$, Jitao Lu, Jin Xu, Xiangmin Xu, Feiping Nie
+Danyang Wu$^1$, Zhenkun Yang$^1$, Jitao Lu, Jin Xu, Xiangmin Xu, Feiping Nie
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024
 
@@ -82,7 +138,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024
 
 Cross-view Approximation on Grassmann Manifold for Multi-view Clustering
 
-Yidan Ma, Xinjie Shen, **Danyang Wu^**, Jianfu Cao, Feiping Nie
+Yidan Ma, Xinjie Shen, Danyang Wu$*$, Jianfu Cao, Feiping Nie
 
 IEEE Transactions on Neural Networks and Learning Systems, 2024
 
@@ -96,7 +152,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2024
 
 Adaptive Local Modularity Learning for Efficient Multilayer Graph Clustering
 
-**Danyang Wu**, Penglei Wang, Junjie Liang, Jitao Lu, Jin Xu, Rong Wang, Feiping Nie
+Danyang Wu, Penglei Wang, Junjie Liang, Jitao Lu, Jin Xu, Rong Wang, Feiping Nie
 
 IEEE Transactions on Signal Processing, 2024  
 
@@ -110,7 +166,7 @@ IEEE Transactions on Signal Processing, 2024
 
 Hyperspherical Prototype Node Clustering
 
-Jitao Lu, **Danyang Wu**, Feiping Nie, Rong Wang, Xuelong Li
+Jitao Lu, Danyang Wu, Feiping Nie, Rong Wang, Xuelong Li
 
 Transactions on Machine Learning Research, 2024  
 
@@ -119,27 +175,12 @@ Transactions on Machine Learning Research, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023 </div><img src='images/TNNLS_M2SGL.png' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Multi-View and Multi-Order Structured Graph Learning
-
-Rong Wang, Penglei Wang, **Danyang Wu^**, Zhensheng Sun^, Feiping Nie, Xuelong Li
-
-IEEE Transactions on Neural Networks and Learning Systems, 2023
-
-[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10154258/) [\[Code\]](https://danyangwucs.github.io/)
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2023 </div><img src='images/TKDE_SGL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Effective Clustering via Structured Graph Learning
 
-**Danyang Wu**, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
+Danyang Wu, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
 
 IEEE Transactions on Knowledge and Data Engineering, 2023
 
@@ -153,7 +194,7 @@ IEEE Transactions on Knowledge and Data Engineering, 2023
 
 Bidirectional Probabilistic Subspaces Approximation for Multiview Clustering
 
-**Danyang Wu**, Xia Dong, Jianfu Cao, Rong Wang, Feiping Nie, Xuelong Li
+Danyang Wu, Xia Dong, Jianfu Cao, Rong Wang, Feiping Nie, Xuelong Li
 
 IEEE Transactions on Neural Networks and Learning Systems, 2022
 
@@ -168,7 +209,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2022
 
 Parameter-free Consensus Embedding Learning for Multiview Graph-based Clustering
 
-**Danyang Wu**, Feiping Nie, Xia Dong, Rong Wang, Xuelong Li
+Danyang Wu, Feiping Nie, Xia Dong, Rong Wang, Xuelong Li
 
 IEEE Transactions on Neural Networks and Learning Systems, 2022
 
@@ -182,7 +223,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2022
 
 Balanced Graph Cut With Exponential Inter-Cluster Compactness
 
-**Danyang Wu**, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
+Danyang Wu, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li
 
 IEEE Transactions on Artificial Intelligence, 2022
 
@@ -197,7 +238,7 @@ IEEE Transactions on Artificial Intelligence, 2022
 
 Truncated Robust Principle Component Analysis with a General Optimization Framework
 
-Feiping Nie, **Danyang Wu**, Rong Wang, Xuelong Li
+Feiping Nie, Danyang Wu, Rong Wang, Xuelong Li
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
 
@@ -214,7 +255,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
 
 Simple Multigraph Convolution Networks
 
-**Danyang Wu**, Xinjie Shen, Jitao Lu, Jin Xu, Feiping Nie
+Danyang Wu, Xinjie Shen, Jitao Lu, Jin Xu, Feiping Nie
 
 WWW, 2024
 
@@ -228,7 +269,7 @@ WWW, 2024
 
 Multi-view Graph Clustering via Efficient Global-Local Spectral Embedding Fusion
 
-Penglei Wang$^1$, **Danyang Wu**$^1$, Rong Wang, Feiping Nie
+Penglei Wang$^1$, Danyang Wu$^1$, Rong Wang, Feiping Nie
 
 ACM MM, 2023
 
@@ -242,7 +283,7 @@ ACM MM, 2023
 
 EMGC$^2$F: Efficient Multi-view Graph Clustering with Comprehensive Fusion
 
-**Danyang Wu**$^1$, Jitao Lu$^1$, Feiping Nie, Rong Wang, Yuan Yuan
+Danyang Wu$^1$, Jitao Lu$^1$, Feiping Nie, Rong Wang, Yuan Yuan
 
 IJCAI, 2022
 
@@ -256,7 +297,7 @@ IJCAI, 2022
 
 GSPL: A Succinct Kernel Model for Group-Sparse Projections Learning of Multiview Data.
 
-**Danyang Wu**, Jin Xu, Xia Dong, Meng Liao, Rong Wang, Feiping Nie, Xuelong Li
+Danyang Wu, Jin Xu, Xia Dong, Meng Liao, Rong Wang, Feiping Nie, Xuelong Li
 
 IJCAI, 2021
 
