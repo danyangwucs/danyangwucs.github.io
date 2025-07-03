@@ -343,7 +343,7 @@ Sometimes a laid-back alien.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZhuangZhuang </div><img src='images/TT4.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Serious viewers... 
+Serious viewer... 
 
 </div>
 </div>
