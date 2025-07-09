@@ -24,6 +24,7 @@ Moreover, I am the co-organizer of [AI4BREAD](http://www.ai4bread.com/)  lab tha
 I'm always looking for self-motivated Ph.D, Master students and undergraduate intern. If you're interested, please feel free to contact me by email and follow this [tips](https://github.com/danyangwucs/Homepage_Attachment/blob/main/Application_Requirements.md). Let's do interesting, useful and warm research together!
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Two papers have been accepted by ACM-MM. Congrats to Penglei and Ziming!
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Junjie!
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Penglei!
 - *2025.04*: &nbsp;🎉🎉 One paper has been accepted by TKDE. Congrats to all authors!
@@ -75,7 +76,7 @@ Xinjie Shen, Danyang Wu$^*$, Feiping Nie, Rong Wang, Xuelong Li
 
 
 ## Journal
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025 </div><img src='images/CIRSEL.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025 </div><img src='images/CIRSEL.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Comprehensive Information Extraction with Separable Representation Learning for Multi-View Clustering
