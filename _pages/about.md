@@ -41,7 +41,7 @@ I'm always looking for self-motivated Ph.D, Master students and undergraduate in
 # 🎖 Research Interests 
 Our team's research interests focus on the following areas:
 
-- Machine Learning: Clustering (Overlap, Partial), Tabular Data Processing (Sparse Selection, LLM-based Pre-train), Multi-modal Learning (Cross-modal Interaction), Masseage-Passing Design (Homophilic、Heterophilic、Latency、Unrolling Algorithm), etc.
+- Machine Learning: Clustering (Multigraph, Overlap, Partial), Tabular Data Processing (Sparse Selection, LLM-based Pre-train), Multi-modal Learning (Cross-modal Interaction), Masseage-Passing Design (Homophilic、Heterophilic、Latency、Unrolling Algorithm), etc.
 - AI4~: Cytomics, Structuralomics, etc.
   
 # 📖 Services
