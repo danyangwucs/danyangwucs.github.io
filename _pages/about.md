@@ -24,6 +24,8 @@ Moreover, I am the co-organizer of [AI4BREAD](http://www.ai4bread.com/)  lab tha
 I'm always looking for self-motivated Ph.D, Master students and undergraduate intern. If you're interested, please feel free to contact me by email and follow this [tips](https://github.com/danyangwucs/Homepage_Attachment/blob/main/Application_Requirements.md). Let's do interesting, useful and warm research together!
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TPAMI. Congrats to Penglei!
+- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by Advanced Science. Congrats to Laiyi!
 - *2025.07*: &nbsp;🎉🎉 Two papers have been accepted by ACM-MM. Congrats to Penglei and Ziming!
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Junjie!
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Penglei!
@@ -31,12 +33,7 @@ I'm always looking for self-motivated Ph.D, Master students and undergraduate in
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Haonan!
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Haonan!
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TCSVT. Congrats to Zihua!
-- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by IEEE/CAA JAS. Congrats to all authors!
-- *2024.07*: &nbsp;🎉🎉 Congrats to Xinjie (Lab Intern) for winning the Microsoft Star of Tomorrow award!
-- *2024.05*: &nbsp;🎉🎉 One paper has been accepted by TKDE. Congrats to all authors!
-- *2024.05*: &nbsp;🎉🎉 One paper has been accepted by TPAMI. Congrats to Zhenkun!
-- *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TNNLS. Congrats to Yidan!
-- *2024.04*: &nbsp;🎉🎉 One paper has been accepted by TSP. Congrats to Penglei!
+
   
 # 🎖 Research Interests 
 Our team's research interests focus on the following areas:
